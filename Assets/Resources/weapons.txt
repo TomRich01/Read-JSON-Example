@@ -1,0 +1,10 @@
+{
+"weapon":[
+	{"type":"sword"},
+	{"type":"bow"},
+	{"type":"axe"},
+	{"type":"crossbow"},
+	{"type":"mace"},
+	{"type":"rifle"}
+]
+}
